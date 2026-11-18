@@ -1,5 +1,5 @@
 ﻿# QUANTUM_ENCRYPTION
-So this project is a challenge we got in a hackathon
+So this project is a challenge we got in a hackathon.
 This project shows how to protect text messages against future quantum-capable attackers.
 It's a hybrid encryption setup that combines:
  - **ML-KEM** (the NIST-standardised post-quantum key encapsulation mechanism) for establishing shared keys
