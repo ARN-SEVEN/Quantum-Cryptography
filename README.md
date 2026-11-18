@@ -7,5 +7,3 @@ It's a hybrid encryption setup that combines:
 
 The idea: quantum computers could eventually break the public-key schemes we rely on today, so key establishment needs to be quantum-resistant, while AES-256 continues to handle the actual message encryption efficiently.
 This project is to learn how hybrid encryption works in practice and how post-quantum cryptography can be paired with a cipher that's already battle-tested, as quantum computing advances.
-
-https://arn-seven.github.io/Quantum-Cryptography/
