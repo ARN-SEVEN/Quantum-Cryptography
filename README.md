@@ -1,5 +1,5 @@
 ﻿# QUANTUM_ENCRYPTION
-So this project is hybrid post-quantum encryption system for text messages, built for the post-quantum cryptography challenge at the Tinkerspace Kochi hackathon (with QuantumX and IBM), where our team placed 5th.
+So this project is a hybrid post-quantum encryption system for text messages, built for the post-quantum cryptography challenge at the Tinkerspace Kochi hackathon (with QuantumX and IBM), where our team placed 5th.
 This project shows how to protect text messages against future quantum-capable attackers.
 It's a hybrid encryption setup that combines:
  - **ML-KEM** (the NIST-standardised post-quantum key encapsulation mechanism) for establishing shared keys
